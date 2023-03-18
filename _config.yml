@@ -1,0 +1,29 @@
+
+# Theme
+theme: jekyll-theme-minimal
+
+
+# Theme vars
+title: The Arndt Lab
+description: |
+  A dedicated team to find innovative solutions  
+  in science. <br>
+  <a href="index.html">Projects</a>
+  <a href="team.html">Team</a>
+
+logo: assets/logo.png
+github:
+  is_user_page: false
+
+
+
+# Markdown Processors
+kramdown:
+  auto_ids          : true
+  entity_output     : as_char
+  toc_levels        : [1, 2, 3, 4, 5, 6]
+  smart_quotes      : lsquo,rsquo,ldquo,rdquo
+  input             : GFM
+  hard_wrap         : false
+  footnote_nr       : 1
+  show_warnings     : false
