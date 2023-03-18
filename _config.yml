@@ -4,11 +4,11 @@ theme: jekyll-theme-minimal
 
 
 # Theme vars
-title: The Arndt Lab
+title: The Kübler Lab
 description: |
   A dedicated team to find innovative solutions  
   in science. <br>
-  <a href="index.html">Projects</a>
+  <a href="index.html">Projects</a> | 
   <a href="team.html">Team</a>
 
 logo: assets/logo.png
